@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">ChessIIITRanchi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_navigation_Drawer">Navigation Drawer is open</string>
+    <string name="close_navigation_Drawer">Navigation Drawer is closed</string>
+    <string name="rules">  <font color="hex_color" face="font_family"></font>
+        <li>There will be 6 teams of six members each.</li>
+
+        <li>Teams will be divided into two groups.</li>
+
+        <li>Out of six players, only 4 players will take part in each round.</li>
+
+<li>The games will be played on Lichess and the username should
+    be in the format – “ Name_Surname21” </li>
+
+<li>Every team will have a girl player and it will be compulsory
+    for her to play and girls will compete with girls.</li>
+
+<li>Every member of the team must be given one chance to
+play in the group stage match otherwise he will not be
+    allowed to play in semifinals and finals.</li>
+
+<li>Matches of each team will be arranged according to the
+    chit-system.</li>
+
+<li>The time control for group stage matches will be 7+0.
+    and the matches will be played in round-robin format.</li>
+
+<li>Every team must be available 15 minutes before the
+    start of the match.</li>
+
+<li>If any player fails to join within 5 minutes of the start
+    time of their match, then the opponent will get a bye.</li>
+
+<li>Top 2 teams will qualify for the semifinals from each groups.</li>
+
+<li>The teams at position 2 and position 3 of each group will have
+    a knock-out round and the winner will proceed to semifinals.</li>
+
+<li>In case of a draw in semifinals and finals, there will be a
+    Armageddon match with randomly selected team member.</li>
+
+<li>In case of a draw in semifinals and finals, there will be a
+    Armageddon match with randomly selected team member.</li>
+
+<li>Time control for semifinals and finals will be a surprise and
+    might have increment.  </li>
+
+<li>No one should use any unfair means since all the matches will
+    be verified on lichess and the games will be proctored.</li>
+
+<li>All fide rules will be followed.</li>
+
+<li>There will be cash prizes for the winner, the runners up,best
+    player, emerging player.</li>
+
+<li>All the matches will be streamed live on IIIT Ranchi Chess
+    Team’s official Youtube channel.</li>
+
+<li>If anyone got any problem with their team captain, they can
+    contact to Vice Captain of the Chess team.</li>
+
+<li>Make sure to have a stable Internet Connection failing which
+    will result the opponent given a bye.</li>
+
+    </string>
+</resources>

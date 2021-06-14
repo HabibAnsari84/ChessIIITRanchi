@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RulesActivity"
+    android:background="@drawable/login_back"
+    android:padding="10dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RULES"
+        android:textSize="40dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:background="@color/orange"
+        android:layout_marginBottom="15dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="➢ There will be 6 teams of six members each. \n\n
+➢ Teams will be divided into two groups. \n\n
+➢ Out of six players, only 4 players will take part in each round. \n\n
+➢ The games will be played on Lichess and the username should
+be in the format – “ Name_Surname21” \n\n
+➢ Every team will have a girl player and it will be compulsory
+for her to play and girls will compete with girls. \n\n
+➢ Every member of the team must be given one chance to
+play in the group stage match otherwise he will not be
+allowed to play in semifinals and finals. \n\n
+➢ Matches of each team will be arranged according to the
+chit-system. \n\n
+➢ The time control for group stage matches will be 7+0.
+and the matches will be played in round-robin format. \n\n
+➢ Every team must be available 15 minutes before the
+start of the match. \n\n
+➢ If any player fails to join within 5 minutes of the start
+time of their match, then the opponent will get a bye. \n\n ➢ Top 2 teams will qualify for the semifinals from each groups.
+➢ The teams at position 2 and position 3 of each group will have
+a knock-out round and the winner will proceed to semifinals. \n\n
+➢ In case of a draw in semifinals and finals, there will be a
+Armageddon match with randomly selected team member. \n\n ➢ In case of a draw in semifinals and finals, there will be a
+Armageddon match with randomly selected team member.\n\n
+➢ Time control for semifinals and finals will be a surprise and
+might have increment. \n\n ➢ No one should use any unfair means since all the matches will
+be verified on lichess and the games will be proctored. \n\n
+➢ All fide rules will be followed. \n\n
+➢ There will be cash prizes for the winner, the runners up,best
+player, emerging player. \n\n
+➢ All the matches will be streamed live on IIIT Ranchi Chess
+Team’s official Youtube channel. \n\n
+➢ If anyone got any problem with their team captain, they can
+contact to Vice Captain of the Chess team. \n\n
+➢ Make sure to have a stable Internet Connection failing which
+will result the opponent given a bye. \n\n"
+                android:textSize="20sp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-light" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/result"
+            android:title="Results" />
+        <item
+            android:id="@+id/pointTable"
+            android:title="Point Table" />
+        <item
+            android:id="@+id/teams"
+            android:title="Teams" />
+
+    </group>
+
+    <item android:title="More">
+
+        <menu>
+
+            <item
+                android:id="@+id/rules"
+                android:title="Rules">
+
+            </item>
+
+            <item
+                android:id="@+id/adminLogin"
+                android:menuCategory="secondary"
+                android:title="Admin Login">
+
+            </item>
+
+            <item
+                android:id="@+id/about_dev"
+                android:menuCategory="secondary"
+                android:title="About Us">
+
+            </item>
+
+
+
+        </menu>
+
+    </item>
+
+</menu>

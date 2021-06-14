@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102902076012",
+    "project_id": "chessiiitranchi",
+    "storage_bucket": "chessiiitranchi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102902076012:android:a703439f00e721b764be49",
+        "android_client_info": {
+          "package_name": "com.example.chessiiitranchi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102902076012-gd1g8cn6r49piasbd53g1oi97gl2uf29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDty1u0fMt8zPufFuTaopm_-SrHXScgelg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102902076012-gd1g8cn6r49piasbd53g1oi97gl2uf29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
